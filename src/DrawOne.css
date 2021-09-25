@@ -1,0 +1,13 @@
+.deck-btn {
+    background-color:rgb(208, 216, 208);
+    border: 1px solid black;   
+    text-align: center;
+    color: black;
+    margin: 15px;
+    padding: 5px;
+}
+
+.deck-img {
+    margin: 15px;
+    justify-content: center;
+}

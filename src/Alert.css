@@ -1,0 +1,10 @@
+.alert-danger{
+
+    background-color:rgb(208, 216, 208);
+    border: 1px solid rgb(230, 228, 228);   
+    border-radius:5px;
+    text-align: center;
+    color: black;
+    margin: 15px;
+    padding: 5px;
+}
